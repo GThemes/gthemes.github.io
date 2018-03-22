@@ -1,0 +1,44 @@
+.pink {
+  background-color: #e91e63;
+  border-color: #e91e63;
+  color: #FFF;
+}
+
+.pink:not(section):not(footer):hover {
+  background-color: #cb1653;
+}
+
+.wine {
+  background-color: #be1132;
+  color: #FFF;
+}
+
+.wine a {
+  font-weight: bold;
+  color: #FFF;
+}
+
+.grey {
+background-color: #AAA;
+}
+
+.white-bg {
+  background-color: white;
+}
+
+.gt-top-menu {
+  transition: all .3s;
+}
+
+.gt-top-menu.transparent {
+  color: #FFF;
+  box-shadow: none;
+}
+
+.gt-top-menu.transparent .logo {
+  display: none;
+}
+
+.gt-top-menu.white-bg .w-logo {
+  display: none;
+}
