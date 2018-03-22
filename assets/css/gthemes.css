@@ -46,3 +46,7 @@
 .gt-top-menu.white-bg .w-logo {
   display: none;
 }
+
+.justify-content-center {
+  justify-content: center;
+}
