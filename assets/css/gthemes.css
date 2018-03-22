@@ -35,6 +35,10 @@ background-color: #AAA;
   box-shadow: none;
 }
 
+.gt-top-menu.transparent svg {
+  fill: #FFF;
+}
+
 .gt-top-menu.transparent .logo {
   display: none;
 }
